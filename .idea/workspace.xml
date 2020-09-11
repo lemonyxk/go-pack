@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="458c59dd-d19b-4fc1-946f-75e93af14521" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.1/libexec" />
+  <component name="ProjectId" id="1hJl0xLH0aU8imWcut05Jx6YEmJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example" />
+      <recent name="$PROJECT_DIR$/unpack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/lemoyxk/go-pack/example">
+    <configuration name="go build github.com/lemoyxk/go-pack" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-pack" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/lemoyxk/go-pack" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/lemoyxk/go-pack/example" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-pack" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/example/main.go" />
+      <package value="github.com/lemoyxk/go-pack/example" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/lemoyxk/go-pack/example" />
+        <item itemvalue="Go Build.go build github.com/lemoyxk/go-pack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.mod" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="450" key="#GOROOT" timestamp="1599736864389">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="593" y="450" key="#GOROOT/0.23.1680.978@0.23.1680.978" timestamp="1599736864389" />
+    <state x="575" y="352" key="#Go_Modules" timestamp="1599736931936">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="575" y="352" key="#Go_Modules/0.23.1680.978@0.23.1680.978" timestamp="1599736931936" />
+    <state x="722" y="376" key="EnvironmentVariablesDialog" timestamp="1599736931274">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="722" y="376" key="EnvironmentVariablesDialog/0.23.1680.978@0.23.1680.978" timestamp="1599736931274" />
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom" timestamp="1599822553362">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1599822553362" />
+    <state width="1419" height="270" key="GridCell.Tab.0.center" timestamp="1599822553362">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1599822553362" />
+    <state width="1419" height="270" key="GridCell.Tab.0.left" timestamp="1599822553362">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1599822553362" />
+    <state width="1419" height="270" key="GridCell.Tab.0.right" timestamp="1599822553362">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1599822553362" />
+    <state x="371" y="149" key="SettingsEditor" timestamp="1599760259296">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="371" y="149" key="SettingsEditor/0.23.1680.978@0.23.1680.978" timestamp="1599760259296" />
+    <state x="522" y="265" width="635" height="490" key="find.popup" timestamp="1599814837671">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="522" y="265" width="635" height="490" key="find.popup/0.23.1680.978@0.23.1680.978" timestamp="1599814837671" />
+  </component>
+</project>
